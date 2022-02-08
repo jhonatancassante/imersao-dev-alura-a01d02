@@ -1,0 +1,7 @@
+# Calculadora de média - Aula 1 Desafio 2
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/jhonatancassante/pen/yLXXqzm](https://codepen.io/jhonatancassante/pen/yLXXqzm).
+
+Calculadora de Média simples. Calcula a média de dois valores pré definidos e exibe no console do navegador.
+
+Desafio 2. Alterar o estilo da página
